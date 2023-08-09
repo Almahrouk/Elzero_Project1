@@ -1,0 +1,108 @@
+week 1:
+01	Introduction and What I Need To Learn ?
+02	Your First Project And Syntax
+03	Element Styling
+04	Name Conventions And Rules
+05	Background – Color, Image, Repeat
+06	Background – Attachment, Position, Size
+07	Padding
+08	Margin
+09	Border
+10	Outline
+11	Display – Block, Inline-Block, Inline
+12	Element Visibility And Use Cases
+
+week 2:
+13	Group Multiple Selectors
+14	Nesting
+15	Dimensions – Width And Height
+16	Overflow – Overflow-X And Overflow-Y
+17	Text – Color And Shadow
+18	Text – Alignment
+19	Text – Decoration And Transform
+20	Text – Spacing
+21	Text – Overflow And Use Cases
+22	Inheritance
+23	Typography – Font Family
+24	Typography – Font Size And CSS Units
+25	Typography – Font Style And Variant And Weight
+26	Mouse Cursor
+
+
+27	Float And Clear
+28	Master The CSS Calculation
+29	Opacity
+30	Position
+31	Z-Index
+32	List Styling
+33	Table Styling
+
+34	Pseudo Classes
+35	Pseudo Elements – First Letter, First Line, Selection
+36	Pseudo Elements – Before, After, Content
+37	Pseudo Elements – Content Trainings
+38	Vendor Prefixes
+39	Border Radius
+40	Box Shadows And Example
+41	The Box Model And Box Sizing
+
+
+
+42	Transition
+43	!Important Declaration And Use Cases
+44	The Margin Collapse
+45	CSS Variables And Trainings
+46	Flex Box – Parent – Direction, Wrap, Flow
+47	Flex Box – Parent – Justify Content
+48	Flex Box – Parent – Align Items
+49	Flex Box – Parent – Align Content
+50	Flex Box – Child – Grow, Shrink, Order
+51	Flex Box – Child – Flex Basis, Flex Shorthand
+52	Flex Box – Child – Align Self, Games, Task
+53	Finish The Flex Froggy Game
+
+
+
+
+54	Filters
+55	Gradients
+56	Pointer Events And Caret Color
+57	Grid – Parent – Template Columns
+58	Grid – Parent – Template Rows And Gap
+59	Grid – Parent – Justify Content And Align Content
+60	Grid – Parent – Complete Layout With Template Areas
+61	Grid – Child – Grid Column And Grid Row
+62	Grid – Child – Grid Area And Trainings
+63	Grid – Min, Max And Auto Fill
+64	Finish The Grid Garden Game
+
+
+
+
+65	2D Transform – Scale
+66	2D Transform – Rotate
+67	2D Transform – Translate
+68	2D Transform – Skew
+69	2D Transform – Matrix
+70	Transform Origin
+71	3D Transform – Rotate
+72	3D Transform – Translate, Perspective, Perspective Origin
+73	3D Transform – Backface Visibility And Flip Product
+
+
+
+74	Animation – KeyFrames, Name, Duration
+75	Animation – Iteration Count, Timing Function, Spinner Loading
+76	Animation – Direction, Fill Mode, Play State, Delay
+77	Up And Down Loading Animation Training
+78	CSS Selectors Reference Part 1
+79	CSS Selectors Reference Part 2
+80	CSS Selectors Reference Part 3
+81	CSS Selectors Reference Part 4
+82	CSS Selectors Reference Part 5
+83	Media Queries And Responsive Designs Intro
+84	Media Queries And Responsive Designs Standards
+85	Media Queries And Responsive Designs Practice
+86	Create Your Framework
+87	CSS Global Values
+88	The End And How To Master CSS
